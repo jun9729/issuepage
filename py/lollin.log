@@ -1,0 +1,4 @@
+2021-03-24 17:07:36.693959 // HTTPSConnectionPool(host='www.newsen.com', port=443): Max retries exceeded with url: /news_view.php?uid=202103221417292910 (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))삽입에러https://www.newsen.com/news_view.php?uid=202103221417292910
+2021-03-24 17:10:22.552178 // 'NoneType' object has no attribute 'attrs'삽입에러http://star.mbn.co.kr/view.php?year=2021&no=279313&refer=portal
+2021-03-24 17:23:08.783794 // 'NoneType' object is not subscriptable전체에러
+2021-03-24 17:43:21.514565 // HTTPSConnectionPool(host='www.newsen.com', port=443): Max retries exceeded with url: /news_view.php?uid=202103241439524810 (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))삽입에러https://www.newsen.com/news_view.php?uid=202103241439524810

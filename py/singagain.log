@@ -1,0 +1,6 @@
+2021-03-24 17:08:10.130662 // 'NoneType' object has no attribute 'attrs'이미지 없음http://zine.istyle24.com/Fashion/FashionView.aspx?Idx=52935&Menu=12&_C_=23069
+2021-03-24 17:08:17.416118 // 'NoneType' object has no attribute 'attrs'삽입에러http://star.mbn.co.kr/view.php?year=2021&no=274427&refer=portal
+2021-03-24 17:08:36.167341 // HTTPSConnectionPool(host='www.newsen.com', port=443): Max retries exceeded with url: /news_view.php?uid=202103240934118010 (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))삽입에러https://www.newsen.com/news_view.php?uid=202103240934118010
+2021-03-24 17:29:00.313304 // 'NoneType' object is not subscriptable전체에러
+2021-03-24 17:41:38.641889 // HTTPSConnectionPool(host='www.newsen.com', port=443): Max retries exceeded with url: /news_view.php?uid=202103230803060310 (Caused by SSLError(SSLError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:852)'),))삽입에러https://www.newsen.com/news_view.php?uid=202103230803060310
+2021-03-24 17:44:11.347303 // 'NoneType' object has no attribute 'attrs'삽입에러http://star.mbn.co.kr/view.php?year=2021&no=277223&refer=portal
